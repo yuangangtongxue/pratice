@@ -22,7 +22,7 @@
     </form>
     <div class="login-btn" @click="tologin">登录账号</div>
   </div>
-</template> 
+</template>
 <script>
 import Bus from "../bus/bus.js";
 import $ from "jquery";
